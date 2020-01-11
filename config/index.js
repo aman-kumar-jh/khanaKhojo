@@ -27,7 +27,7 @@ const TWITCH = {
     clientSecret: "bz4tt9sztacz4sd8qx8rg8imqbsjjn"
 };
 
-module.exports = {
+export default {
     AMAZON,
     GITHUB,
     FACEBOOK,
